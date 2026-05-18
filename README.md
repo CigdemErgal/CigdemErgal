@@ -27,7 +27,7 @@ I am a natural leader who thrives in Agile environments. I have experience takin
 
 ### 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CigdemErgal&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CigdemErgal&theme=radical)
+
 
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/cigdem-ergal)
