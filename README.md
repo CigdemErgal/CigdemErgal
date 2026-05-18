@@ -24,10 +24,5 @@ I am a natural leader who thrives in Agile environments. I have experience takin
 *   **Money Guard:** Managed a 10-person team for a React-based fintech project, focusing on state management (Redux) and team coordination.
 *   **Cinemania:** Served as **Team Lead** for a movie library application, handling merge conflicts and GitHub pull requests.
 *   **SmartStudent AI Portal:** Developing a full-stack portal with **Redis** caching, security (OWASP), and AI integration.
-
-### 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CigdemErgal&show_icons=true&theme=radical)
-
-
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/cigdem-ergal)
