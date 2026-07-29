@@ -1,6 +1,6 @@
 # Hi there, I'm Cigdem 👋
 
-### 🚀 Junior Full-stack Developer | Former Business Management Professional
+### 🚀 Junior Full-stack Developer 
 Bridging the gap between management logic and modern web development.
 
 ---
